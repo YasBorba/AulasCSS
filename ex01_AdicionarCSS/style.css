@@ -1,0 +1,19 @@
+/* usando CSS externo  */
+/* muda a cor de todos os h1 */
+h1{ 
+    color: darkorchid;
+}
+span{
+    color: chartreuse;
+}
+/* mudar a cor de todos os h2 */
+h2{
+    color: #f1ee05;
+    /* muda o tamanho das letras */
+    font-size: 100px;
+}
+/* muda a cor de todos os p */
+p{
+    color: forestgreen;
+    font-size: 10px;
+}
