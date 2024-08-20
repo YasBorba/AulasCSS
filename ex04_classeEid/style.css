@@ -1,0 +1,23 @@
+/* Adicionando CSS */
+/* Com seletor 'Tag' */
+h1{
+    color: mediumvioletred;
+    font-size: 15px;
+}
+p{
+    font-weight:bold ;
+}
+
+/* adicionado CSS */
+/* com seletor 'id' */
+/* ID NAO pode ser compartilhado */
+#p2{
+    color: mediumorchid;
+    font-weight: normal;
+}
+/* adicionado CSS */
+/* com seletor 'class' */
+.p-texto{
+    color: turquoise;
+    font-family: monospace;
+}
