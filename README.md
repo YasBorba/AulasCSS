@@ -4,5 +4,17 @@
 * Adicionado CSS interno
 * Classe e id
 * Modo de cores
+* Animação
+* Animação times
+* Box, model e bordas
+* Position static
+* Position relative 
+* Position absolute
+* Position fixed
+* Position sticky
+
+
+
+
 
  
