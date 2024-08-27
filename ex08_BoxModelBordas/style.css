@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: powderblue;
+
+    /* espaço que fica depois do conteudo */
+    padding: 30px 30px;
+
+    /* borda que fica em volta do padding */
+    border: 20px solid hotpink;
+
+    /* mudar o border por partes */
+    border-left: 20px solid deeppink;
+    border-right: 20px solid deeppink;
+
+    /* arrendondar  */
+    border-radius: 25px;
+
+    /* adicionando espaço */
+    margin: 50px 50px;
+
+}
