@@ -1,0 +1,12 @@
+.posicao{
+    width: 200px;
+    height: 200px;
+    background-color: darkturquoise;
+    border-bottom: 3px dashed orangered;
+}
+.static{
+    border-right: 5px solid deepskyblue;
+    position: static;
+    
+
+}
