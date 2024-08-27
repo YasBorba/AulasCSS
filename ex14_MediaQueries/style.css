@@ -1,0 +1,23 @@
+body{
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+/*Tamanho médio de desktop: mínimo 1024px*/
+@media screen and (min-width:1024px) {
+    h1 {font-size: 48px; background-color: darkturquoise;}
+    p {font-size: 24px;}   
+}
+/* Tamanho médio de tablet: mínimo 768px e maximo 1023px */
+@media(min-width:768px) and (max-width:1023px) {
+    h1{font-size: 24px}
+    p{font-size: 20px;}
+    body{background-color: aquamarine;}    
+}
+/* Tamanho de mobile: máximo 767px */
+@media screen and (max-width:767px) {
+    h1{font-size: 20px ;}
+    p{font-size: 16px;}
+    body{background-color: chartreuse;}
+    
+}
