@@ -12,6 +12,7 @@
 * Position absolute
 * Position fixed
 * Position sticky
+* Media queries
 
 
 
